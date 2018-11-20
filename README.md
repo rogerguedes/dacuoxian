@@ -1,4 +1,4 @@
-This repo is fork of [code.google.com/p/dacuoxian]().
+This repo is fork of [code.google.com/p/dacuoxian](http://code.google.com/p/dacuoxian).
 
 Switch ip-domain mappings in /etc/hosts with a single command
 
